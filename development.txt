@@ -2,3 +2,6 @@ Proxy : localhost:3000;
 func added_feature(){
   do this
 }
+func added_other(){
+  do this
+}
