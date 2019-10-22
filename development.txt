@@ -5,5 +5,5 @@ func added_feature(){
 }
 func added_other(){
   do this.
-  Changed this function a little
+  Changed this function a little 
 }
